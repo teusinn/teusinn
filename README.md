@@ -1,4 +1,4 @@
-s# Hello! I'm Mateus Lima Silva 👋
+# Hello! I'm Mateus Lima Silva 👋
 
 <br/>
 <h2>ℹ️ About me:</h2>
