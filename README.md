@@ -2,12 +2,11 @@
 
 <br/>
 <h2>ℹ️ About me:</h2>
-<li>I'm a <b>Data Analyst</b> at <a href="https://www.mercadolivre.com.br/">Mercado Livre</a></li>
-<li>I have 4 years of experience</li>
+<li><b>Data Analyst</b> at <a href="https://www.mercadolivre.com.br/">Mercado Livre</a></li>
+<li>Almost 5 years of experience</li>
 <li>Bachelor's Degree in Information Systems</li>
 <li>Taking a Data Science and Analytics MBA from <a href="https://mbauspesalq.com/">USP/ESALQ</a></li>
 <li>Currently living in São Paulo, Brazil</li>
-<li>Portfolio development in progress</li>
 
 
 <br/>
