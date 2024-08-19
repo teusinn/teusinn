@@ -31,4 +31,4 @@
 </div>
 
 <br/>
-<h3>Thank you! :D</h3>
+<h3>Thank you!</h3>
