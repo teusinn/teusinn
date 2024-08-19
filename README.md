@@ -1,7 +1,7 @@
 # Hello! I'm Mateus Lima Silva 👋
 
 <br/>
-<h2>ℹ️ About me:</h2>
+<h2>About me:</h2>
 <li><b>Data Analyst</b> at <a href="https://www.mercadolivre.com.br/">Mercado Livre</a></li>
 <li>Almost 5 years of experience</li>
 <li>Bachelor's Degree in Information Systems</li>
